@@ -63,4 +63,6 @@ class PostController extends Controller
     {
         //
     }
+$mahmoud=array["mahmoud",25,"single","graduated"];
+
 }
